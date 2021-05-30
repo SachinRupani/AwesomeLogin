@@ -1,7 +1,5 @@
 # AwesomeLogin - React Native
 
-![Workflow result](https://github.com/SachinRupani/AwesomeLogin/workflows/Check/badge.svg)
-
 Here is a simple, elegant and a beautiful login screen created using react native. Special thanks to [react-native](https://github.com/facebook/react-native) and [react-native-paper](https://github.com/callstack/react-native-paper) package, with the help of which I was able to create this awesome login page.
 
 #### Key Points
