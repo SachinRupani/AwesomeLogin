@@ -2,16 +2,16 @@
 
 Here is a simple, elegant and a beautiful login screen created using react native. Special thanks to [react-native](https://github.com/facebook/react-native) and [react-native-paper](https://github.com/callstack/react-native-paper) package, with the help of which I was able to create this awesome login page.
 
-###### Key Points
+#### Key Points
 
 -A login page created using react native (react JS).
 
 -It supports the dark mode as well.
 
-###### Screenshots
+#### Screenshots
 
-Dark Mode <img width="720" height="1280" src="images/login_dark.png" alt="LoginScreen - Dark Mode" >
-Light Mode <img width="720" height="1280" src="images/login_light.png" alt="LoginScreen - Light Mode" >
+Dark Mode<img width="360" height="780" src="images/login_dark.png" alt="LoginScreen - Dark Mode" >
+Light Mode<img width="360" height="780" src="images/login_light.png" alt="LoginScreen - Light Mode" >
 
 Happy coding :)
 
