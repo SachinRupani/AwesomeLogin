@@ -10,6 +10,10 @@ Here is a simple, elegant and a beautiful login screen created using react nativ
 
 -Contains a well commented and organized code.
 
+#### Android apk
+
+Download the android apk [AwesomeLogin-Android](https://github.com/SachinRupani/AwesomeLogin/app-debug-awesome-login.apk)
+
 #### Screenshots
 
 <img width="360" height="780" src="images/login_dark.png" alt="LoginScreen - Dark Mode" />
