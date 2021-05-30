@@ -12,7 +12,7 @@ Here is a simple, elegant and a beautiful login screen created using react nativ
 
 #### Android apk
 
-Download the android apk [AwesomeLogin-Android](https://github.com/SachinRupani/AwesomeLogin/app-debug-awesome-login.apk)
+Download the android apk [AwesomeLogin-Android](https://drive.google.com/file/d/1YaCxvd-E4LHK9JTb8j7oq0kg3oBRBmD3/view?usp=sharing)
 
 #### Screenshots
 
