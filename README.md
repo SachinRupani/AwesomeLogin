@@ -18,7 +18,7 @@ Here is a simple, elegant and a beautiful login screen created using react nativ
 <img width="360" height="780" src="images/validation_password.png" alt="LoginScreen - Password Validation" />
 <img width="360" height="780" src="images/validation_password_ok.png" alt="LoginScreen - Password Validation" />
 
-Happy coding :)
+##### Happy coding :)
 
 # License
 
