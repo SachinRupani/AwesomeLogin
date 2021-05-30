@@ -1,6 +1,6 @@
 # AwesomeLogin - React Native
 
-### Here is a simple, elegant and a beautiul login screen created using react native. Special thanks to [react-native](https://github.com/facebook/react-native) and [react-native-paper](https://github.com/callstack/react-native-paper) package, with the help of which I was able to create this awesome login page.
+##### Here is a simple, elegant and a beautiful login screen created using react native. Special thanks to [react-native](https://github.com/facebook/react-native) and [react-native-paper](https://github.com/callstack/react-native-paper) package, with the help of which I was able to create this awesome login page.
 
 # License
 
