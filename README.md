@@ -8,10 +8,16 @@ Here is a simple, elegant and a beautiful login screen created using react nativ
 
 -It supports the dark mode as well.
 
+-Contains a well commented and organized code.
+
 #### Screenshots
 
-Dark Mode<img width="360" height="780" src="images/login_dark.png" alt="LoginScreen - Dark Mode" >
-Light Mode<img width="360" height="780" src="images/login_light.png" alt="LoginScreen - Light Mode" >
+Dark Mode<br/><img width="360" height="780" src="images/login_dark.png" alt="LoginScreen - Dark Mode" > <br />
+Light Mode<br /><img width="360" height="780" src="images/login_light.png" alt="LoginScreen - Light Mode" >
+<br/>
+<img width="360" height="780" src="images/validation_email.png" alt="LoginScreen - Email Validation" >
+<img width="360" height="780" src="images/validation_password.png" alt="LoginScreen - Password Validation" >
+<img width="360" height="780" src="images/validation_password_ok.png" alt="LoginScreen - Password Validation" >
 
 Happy coding :)
 
